@@ -1,2 +1,9 @@
-# elevator-ncs-testbed
-Distributed networked control system testbed for a single-axis elevator, including MATLAB server and Python client implementations.
+# Elevator NCS Testbed
+
+MATLAB server and Python client used in the MSc thesis on networked
+control of a single-axis elevator.
+
+- `server.zip` – MATLAB server code  
+- `client.zip` – Python client code  
+
+Provided for reference and reproducibility.
